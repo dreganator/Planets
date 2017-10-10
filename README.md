@@ -2,4 +2,4 @@
 secret line
 WHatever change
 again
-Change made in master branch
+Change in dazzling_feature to provoke conflict
