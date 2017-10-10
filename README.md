@@ -2,4 +2,4 @@
 secret line
 WHatever change
 again
-Change added in dazzling_feature branch
+Change made in master branch
