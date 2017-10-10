@@ -2,4 +2,4 @@
 secret line
 WHatever change
 again
-Change in dazzling_feature to provoke conflict
+conflict fixed
